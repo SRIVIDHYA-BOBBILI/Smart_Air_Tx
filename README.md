@@ -42,5 +42,3 @@ The firmware initializes peripherals, collects sensor data, and transmits it usi
 3. Flash it to the STM32 board
 4. Monitor output via serial interface
 
-
-If you want, share your `.ioc` or code snippets—I’ll turn this into a **strong, recruiter-level README** instead of a generic one.
